@@ -24,3 +24,5 @@ Este projeto consiste em uma análise estatística exploratória da população 
 - A análise reforça a ideia de que a formação de planetas e sua detecção são influenciadas pelas características da estrela hospedeira, bem como por vieses observacionais.
 
 
+## Considerações  
+Este trabalho tem caráter exploratório e educativo. Caso alguma interpretação, metodologia ou dado utilizado esteja incorreto, estou **aberto a aprender, revisar e corrigir** quaisquer pontos necessários. O objetivo principal é contribuir para o entendimento da estatística populacional dos exoplanetas e aprimorar o aprendizado em análise de dados astronômicos.
