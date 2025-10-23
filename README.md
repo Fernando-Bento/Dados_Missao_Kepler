@@ -23,7 +23,4 @@ Este projeto consiste em uma análise estatística exploratória da população 
 - Planetas gasosos têm presença moderada em diversas faixas de temperatura, com maior contagem observada em torno de ~6661 K.  
 - A análise reforça a ideia de que a formação de planetas e sua detecção são influenciadas pelas características da estrela hospedeira, bem como por vieses observacionais.
 
-## Como Reproduzir  
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+
